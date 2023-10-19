@@ -1,10 +1,10 @@
 # VA-KOR
 
-본 repo에서는 Lee et al. (2022)의 연구 *Emotion Evaluator: Expanding the Affective Lexicon with Neural Network Model* 에서 사용한 한국어 정서 어휘집 자료에 대해 다룹니다.
+본 repo에서는 Lee et al. (2022)의 연구 *Emotion Evaluator: Expanding the Affective Lexicon with Neural Network Model*[^1] 에서 사용한 한국어 정서 어휘집 자료에 대해 다룹니다.
 
 ## 한국어 정서 어휘집 (Korean Affective Lexicon)
 
-영어 단어의 정서적 의미를 평정한 데이터는 많으나[^1], 이에 대응되는 한국어 정서 어휘집 자료는 매우 적습니다. Lee et al. (2022)의 연구에서는 이러한 제한점을 극복하기 위해 선행 한국어 정서 어휘집 자료를 종합하였습니다.
+영어 단어의 정서적 의미를 평정한 데이터는 많으나[^2], 이에 대응되는 한국어 정서 어휘집 자료는 매우 적습니다. Lee et al. (2022)의 연구에서는 이러한 제한점을 극복하기 위해 선행 한국어 정서 어휘집 자료를 종합하였습니다.
 
 
 
@@ -93,5 +93,5 @@
 
 
 
-
-[^1]: https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm 
+[^1]: https://escholarship.org/uc/item/20s0r7c1
+[^2]: https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm 
