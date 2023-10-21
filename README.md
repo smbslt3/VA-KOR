@@ -72,7 +72,7 @@
      - 이윤형의 자료에 있는 동음이의어 **전기**의 경우, 동음이의어 문제를 해결할 수 없으나 V, A값의 차이가 크지 않아 뜻풀이를 임의로 할당하였습니다.
 
 
-![VA_annot](https://github.com/smbslt3/VA-KOR/assets/41793074/20a0a607-5cf7-4239-b45a-6b190617b57d)
+![va_kor_annot_resize](https://github.com/smbslt3/VA-KOR/assets/41793074/88e4108b-bfb7-4448-b299-fbf4a698c23e)
 
 
 
